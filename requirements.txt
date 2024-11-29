@@ -1,0 +1,3 @@
+pycryptodome
+sqlite3
+tkinter
