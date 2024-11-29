@@ -12,7 +12,7 @@
 
 ### Prerequisites
 - **Python:** Ensure Python 3.x is installed on your machine.
-- **iTunes Drivers (optional):** For iTunes-specific data extraction (not required if only CSV export is needed).
+- **iTunes Drivers:** For iTunes-specific data extraction (not required if only CSV export is needed).
 
 ### Steps to Install
 1. **Download the Installer:** 
