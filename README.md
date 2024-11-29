@@ -2,12 +2,6 @@
 
 **iExtract** is a tool for extracting and backing up messages from iTunes into a CSV file. It supports easy extraction and offers a clean user interface with a sleek design. The app has been designed to handle backups of multiple messages efficiently, and it can generate CSV files for easy viewing.
 
-## Features
-- **Simple Interface:** The app has an intuitive, minimalistic interface with a dark theme.
-- **Message Extraction:** Easily extract iTunes backup messages and save them into a CSV file.
-- **Efficient Processing:** Handles a large number of messages without crashing or slowing down.
-- **Custom Icon:** The app uses a custom icon for a personalized touch.
-
 ## Installation
 
 ### Prerequisites
