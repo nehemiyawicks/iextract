@@ -1,3 +1,5 @@
 pycryptodome
 sqlite3
 tkinter
+# iTunes is required but not installable via pip
+# Download iTunes from https://www.apple.com/itunes/download/
