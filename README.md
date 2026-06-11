@@ -68,4 +68,4 @@ If the app doesn't work as expected, here are some steps to help:
 
 ## Copyright
 
-© 2026 Nehemiya Wickramasinghe. All rights reserved.
+© 2024-2026 Nehemiya Wickramasinghe. All rights reserved.
